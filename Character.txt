@@ -11,3 +11,9 @@
     Personality: Wise, patient, with a hint of humor
     Appearance: Silver and white feathers, golden eyes
     Special Traits: Can speak and understand the language of all creatures
+
+3.Felicity (The Fairy):
+    Age: Appears 100, but ageless
+    Personality: Mischievous, playful, caring
+    Appearance: Shimmering wings, dresses in leaves and flowers
+    Special Traits: Can manipulate nature's elements
